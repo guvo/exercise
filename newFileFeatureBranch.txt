@@ -1,2 +1,2 @@
 feature branch 
-Dodana vrstica
+Popravljena vrstica je tukaj.
